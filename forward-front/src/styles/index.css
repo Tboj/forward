@@ -1,0 +1,22 @@
+@import './element-ui.css';
+
+body {
+    height: 100%;
+    margin: 0 !important;
+}
+
+#app {
+    height: 100%;
+}
+
+.tree-header {
+  padding: 8px;
+  border-radius: 2px;
+  background-color: #409EFF;
+  color: #fff;
+  font-size: 16px;
+}
+
+.main-content {
+  padding: 0 8px !important;
+}
